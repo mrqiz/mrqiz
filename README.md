@@ -6,9 +6,11 @@
 
 ## Проекты
 
+[Турниры FirePlace](https://vk.com/app7733109) - агрегатор турниров по Hearthstone.
+
 [cc](https://github.com/mrqiz/cc) - сократитель ссылок на базе Express и MongoDB.
 
-_(скоро тут будет что-то интересное...)_
+[ESportsMark](https://mydiscord.top) - бот для автоматизации рассылки рекламы в Discord.
 
 ## Где меня можно найти
 
