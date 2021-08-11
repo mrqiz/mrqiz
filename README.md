@@ -16,6 +16,6 @@
 
 [ВКонтакте](https://vk.com/mrqiz)
 
-[Telegram](t.me/mrqiz)
+[Telegram](https://t.me/mrqiz)
 
 Оффлайн - в Ставрополе, а потом и в локальном Хабе, о котором уже говорилось выше.
